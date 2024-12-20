@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Yusuf Kara
+- This Github account is only used for my education and not for any of my work/start-up based endevours
 - 📫 Reach me on LinkedIn: [linkedin.com/in/yusufkarasan/](https://www.linkedin.com/in/yusufkarasan/)
 
 <!---
