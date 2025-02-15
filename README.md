@@ -37,7 +37,6 @@ I'm a passionate software engineer with strong experience in **data engineering*
 
 ### ❓ What I’m Working On
 
-These days, I'm am working on getting better at puplic speaking and communication! 💬
-I'm also working on building a hoppy project that involves a website and an app for the real estate sector. 
+These days I am working on building a hoppy project that involves a website and an app.
 
 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/yusufkarasan/)
