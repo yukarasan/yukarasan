@@ -5,8 +5,7 @@ I'm a passionate software engineer with strong experience in **data engineering*
 ---
 
 🚀 **About Me**
-- 💡 **Interests:** Making impactful software!
-- 🎓 **Recent Experience:** Internship & Thesis at **Novo Nordisk**, specializing in mobile apps & data engineering
+- 💡 **Interests:** I love going to the gym! And I play a little bit of football with some friends. I like to watch a lot of Youtube when I just want to relax. 
 - 📍 **Based in:** Frederikssund, Capital Region, Denmark
 
 ---
